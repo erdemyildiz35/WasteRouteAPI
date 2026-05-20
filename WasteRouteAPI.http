@@ -1,0 +1,6 @@
+@WasteRouteAPI_HostAddress = http://localhost:5230
+
+GET {{WasteRouteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
